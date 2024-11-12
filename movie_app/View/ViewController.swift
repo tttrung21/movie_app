@@ -1,5 +1,4 @@
 import UIKit
-import MBProgressHUD
 
 class ViewController: UIViewController {
     @IBOutlet weak var tableView: UITableView!

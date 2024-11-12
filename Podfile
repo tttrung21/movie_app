@@ -6,7 +6,7 @@ target 'movie_app' do
   use_frameworks!
 
   # Pods for movie_app
-pod 'MBProgressHUD'
+  pod 'MBProgressHUD'
   target 'movie_appTests' do
     inherit! :search_paths
     # Pods for testing
